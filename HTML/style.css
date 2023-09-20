@@ -1,0 +1,18 @@
+.container{
+    background:linear-gradient(red,blue,rgb(227, 103, 103));
+    width: 1370px;
+    height: 300px;
+    border-radius: 23px;
+    padding: 100px 75px;
+}
+
+.search-bar{
+    padding-left: 120px;
+}
+
+.search-box{
+    size: 400px;
+    border-radius: 21px;
+    align-items: center;
+    opacity: 50%;
+}
